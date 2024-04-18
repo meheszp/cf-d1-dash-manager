@@ -16,7 +16,7 @@
 
 	let locked = true;
 	let offset = 0;
-	let limit = 20;
+	let limit = 1000;
 	let order = "";
 	let dir: "ASC" | "DESC" = "ASC";
 	let select = "*";
